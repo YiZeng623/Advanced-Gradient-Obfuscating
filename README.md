@@ -60,20 +60,29 @@ For a single image as the input, defense effects are demonstrated.
 Comparision of different defense methods over BPDA:
 
 Attack success rate:
+
 ![avatar](./images/BPDA_AtkSucc.png)
+
 Model accuracy:
+
 ![avatar](./images/BPDA_ModelAcc.png)
 
 Comparision of different defense methods over BPDA+EOT:
 
 Attack success rate:
+
 ![avatar](./images/EOT_AtkSucc.png)
+
 Model accuracy:
+
 ![avatar](./images/EOT_ModelAcc.png)
 
 Comparision of different defense methods over BPDA+EOT:
 
 Attack success rate:
+
 ![avatar](./images/EOT_new_AtkSucc.png)
+
 Model accuracy:
+
 ![avatar](./images/EOT_new_ModelAcc.png)
