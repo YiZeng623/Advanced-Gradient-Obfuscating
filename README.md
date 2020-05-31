@@ -86,3 +86,7 @@ Attack success rate:
 Model accuracy:
 
 ![avatar](./images/EOT_new_ModelAcc.png)
+
+### Contributing
+If you'd like to contribute or have any suggestions for this repository, you can directly open an issue on this GitHub repository.
+All contributions welcome! 
