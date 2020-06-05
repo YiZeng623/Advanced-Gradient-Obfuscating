@@ -77,7 +77,7 @@ Model accuracy:
 
 ![avatar](./images/EOT_ModelAcc.png)
 
-Comparision of different defense methods over BPDA+EOT:
+Comparision of different defense methods over Semi-Brute-Force Attack based on EOT:
 
 Attack success rate:
 
