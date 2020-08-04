@@ -26,7 +26,7 @@ def l2_distortion(img1, img2):
         l = np.mean(np.sqrt(np.sum((img1.reshape((n, -1)) - img2.reshape((n, -1)))
                                    ** 2, axis=1) / np.product(img1.shape[1:])), axis=0)
     else:
-        l = np.sqrt(np.sum(img1 - img2) ** 2 / np.product(img1.shape))
+        l = np.sqrt(np.sum((img1 - img2) ** 2) / np.product(img1.shape))
 
     return l
 
